@@ -46,3 +46,8 @@ div {
   font-style: italic;
   margin-top: 10px;
 }
+
+.level {
+  font-weight: bold;
+  font-size: 1.2em; 
+}
